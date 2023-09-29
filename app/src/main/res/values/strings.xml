@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">CycleSawa</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="title_activity_rent_abike">RentABikeActivity</string>
+    <string name="title_activity_rent_bike">RentBikeActivity</string>
+    <string name="title_activity_update_profile">UpdateProfileActivity</string>
+    <string name="rent_a_bike">Rent a Bike</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="app_description" />
+    <string name="rent_bike">Rent bike</string>
+    <string name="todo">TODO</string>
+    <string name="description_of_the_image">Description of the image</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="save">Save</string>
+    <string name="logo_for_cycle_sawa">Logo for Cycle Sawa</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="change_profile_picture">Change Profile Picture</string>
+    <string name="todo2">TODO</string>
+    <string name="not_registered_yet_sign_up">Not Registered Yet , Sign Up !</string>
+    <string name="type_your_password">Type Your Password</string>
+    <string name="type_your_email">Type your Email</string>
+    <string name="sign_in">Sign In</string>
+</resources><!--<resources>-->
+    <!--    <string name="app_name">CycleSawa</string>-->
+    <!--    <string name="title_activity_sign_in">SignInActivity</string>-->
+    <!--    <string name="title_activity_sign_up">SignUpActivity</string>-->
+    <!--    <string name="button_text">Click Me</string>-->
+    <!--    <string name="email_hint">Type your Email</string>-->
+    <!--    <string name="my_text">Your Text Here</string>-->
+    <!--    <string name="type_your_email">Type your Email</string>-->
+    <!--    <string name="retype_your_password">Retype Your Password</string>-->
+    <!--    <string name="already_registered_sign_in">Already Registered , Sign In !</string>-->
+    <!--    <string name="sign_up">Sign Up</string>-->
+    <!--    <string name="type_your_password">Type Your Password</string>-->
+    <!--    <string name="not_registered_yet_sign_up">Not Registered Yet , Sign Up !</string>-->
+    <!--    <string name="type_your_password2">Type Your Password</string>-->
+
+
+    <!--</resources>-->

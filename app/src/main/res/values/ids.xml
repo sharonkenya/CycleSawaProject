@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="bicycleNameTextView" type="id" />
+    <item name="bicycleDescriptionTextView" type="id" />
+    <item name="btnChangeProfilePicture" type="id" />
+</resources>
